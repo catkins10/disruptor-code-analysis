@@ -7,10 +7,9 @@
 
 ## 已完成
 1. [src/main/java/com/lmax/disruptor/Sequence.java](https://github.com/winwill2012/disruptor-code-analysis/blob/master/src/main/java/com/lmax/disruptor/Sequence.java)
-2. [src/main/java/com/lmax/disruptor/Sequence.java]()
-3. [src/main/java/com/lmax/disruptor/SequenceBarrier.java]()
-4. [src/main/java/com/lmax/disruptor/Sequenced.java]()
-5. [src/main/java/com/lmax/disruptor/SingleProducerSequencer.java]()
+2. [src/main/java/com/lmax/disruptor/SequenceBarrier.java](https://github.com/winwill2012/disruptor-code-analysis/blob/master/src/main/java/com/lmax/disruptor/SequenceBarrier.java)
+3. [src/main/java/com/lmax/disruptor/Sequenced.java](https://github.com/winwill2012/disruptor-code-analysis/blob/master/src/main/java/com/lmax/disruptor/Sequenced.java)
+4. [src/main/java/com/lmax/disruptor/SingleProducerSequencer.java](https://github.com/winwill2012/disruptor-code-analysis/blob/master/src/main/java/com/lmax/disruptor/SingleProducerSequencer.java)
 
 
 
